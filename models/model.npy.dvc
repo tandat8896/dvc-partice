@@ -3,3 +3,7 @@ outs:
   size: 2406848
   hash: md5
   path: model.npy
+
+meta:
+  version: v0.1
+  date: 03/10/2025
