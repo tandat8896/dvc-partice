@@ -1,0 +1,9 @@
+outs:
+- md5: 1010a2d94d9d1f182c75495bc352f4fd
+  size: 14
+  hash: md5
+  path: cache_under.txt
+
+
+meta:
+  prefix: d41d8
